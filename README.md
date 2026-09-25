@@ -2,7 +2,7 @@
 
 A compact, Qwiic-compatible power switch module built around an I2C GPIO expander, designed for easy integration into modular sensor/electronics setups without extra wiring or a microcontroller doing the switching directly.
 
-![3D Front View](3D%20front%20layer.png)
+![3D Front View](https://github.com/Harshad-vali/QWIIC-SWITCH-PROJECT/blob/90c395c93afc004e473f713c59a727cddb5dd03d/3D%20front%20layer.png)
 ![3D Back View](3D%20back%20layer.png)
 ![3D Side View](3D%20side%20view.png)
 
@@ -39,7 +39,7 @@ This board lets a host microcontroller switch power to a downstream load over I2
 
 ### Schematic
 
-![Schematic Preview](schematic.png)
+![Schematic Preview](https://github.com/Harshad-vali/QWIIC-SWITCH-PROJECT/blob/5663c37b24583427fa52ad9113f4379495854d5c/schmatic.png)
 
 Full schematic PDF: [Qwiic_Power_Switch_Schematic_v10.pdf](Qwiic_Power_Switch_Schematic_v10%20(1).pdf)
 
